@@ -8,12 +8,12 @@ p {
   box-sizing: border-box;
 }
 
-.menu {
-    width: 25%;
+.left {
+    width: 50%;
     float: left;
 }
-.main {
-    width: 75%;
+.right {
+    width: 50%;
     float: left;
 }
 
