@@ -1,4 +1,27 @@
 h1 {
-color: orange;
-text-align: center;
+  box-sizing: border-box;
+  color: orange;
+  text-align: center;
+}
+
+p {
+  box-sizing: border-box;
+}
+
+.menu {
+    width: 25%;
+    float: left;
+}
+.main {
+    width: 75%;
+    float: left;
+}
+
+html {
+    font-family: "Lucida Sans", sans-serif;
+}
+.header {
+    background-color: #9933cc;
+    color: #ffffff;
+    padding: 15px;
 }
