@@ -8,11 +8,11 @@ p {
   box-sizing: border-box;
 }
 
-.left {
+.lefthalf {
     width: 50%;
     float: left;
 }
-.right {
+.righthalf {
     width: 50%;
     float: left;
 }
