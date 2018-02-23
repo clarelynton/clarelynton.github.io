@@ -1,6 +1,6 @@
 h1 {
   box-sizing: border-box;
-  color: orange;
+  color: #ebb6b6ff;
   text-align: center;
 }
 
@@ -8,7 +8,7 @@ p {
   box-sizing: border-box;
 }
 
-.lefthalf {
+/*.lefthalf {
     width: 50%;
     float: left;
 }
@@ -16,6 +16,7 @@ p {
     width: 50%;
     float: left;
 }
+*/
 
 html {
     font-family: "Lucida Sans", sans-serif;
